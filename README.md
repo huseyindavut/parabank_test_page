@@ -26,8 +26,10 @@ The tests were created as part of a mandatory assignment focused on exploring Pl
 
 1. Install dependencies and browsers:
 
-   ```bash
+   In the Terminal:
+   
    npm install
+   
    npx playwright install
 
 
@@ -35,4 +37,4 @@ The tests were created as part of a mandatory assignment focused on exploring Pl
 
 
    npx playwright show-report
-   ```
+   
