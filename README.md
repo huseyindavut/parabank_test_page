@@ -27,15 +27,13 @@ npx playwright test
 Ensure you run npm install and npx playwright install before running the tests.
 
 📁 Project Structure
-pgsql
-Kopier
-Rediger
+
 PARABANK-TESTS-TS/
 │
 ├── tests/
 │   ├── customer-care.spec.ts
 │   ├── login-suite.spec.ts
-│   └── login-suite-BeforeEach-AfterEach.spec.ts
+│   └── login-suite2.spec.ts
 │
 ├── playwright.config.ts
 ├── tsconfig.json
@@ -74,7 +72,7 @@ Each test logs in manually and performs assertions
 
 
 
-login-suite-BeforeEach-AfterEach.spec.ts
+login-suite2.spec.ts
 📌 Tasks 2.7 – 2.9 – Using Hooks for Login/Logout
 
 Uses test.beforeEach() to perform login before every test
