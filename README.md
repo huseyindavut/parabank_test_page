@@ -82,13 +82,6 @@ Uses test.afterEach() to perform logout after every test
 Rewrites the 3 test cases from login-suite.spec.ts in a more reusable way:
 
 
-ScreenShot:
-
-
-![Skjermbilde 2025-04-01 161354](https://github.com/user-attachments/assets/e50af9d4-481e-42f2-9ce3-3d4758541f35)
-
-
-
 
 Verifies login success
 
