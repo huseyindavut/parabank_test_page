@@ -83,7 +83,8 @@ Rewrites the 3 test cases from login-suite.spec.ts in a more reusable way:
 
 
 ScreenShot:
-![image](https://github.com/user-attachments/assets/089d7415-b439-4fae-ae35-320ddd1f82e4)
+![image](https://github.com/user-attachments/assets/5e2c9f87-06f2-4c9f-9e0f-5565368e693b)
+
 
 
 
