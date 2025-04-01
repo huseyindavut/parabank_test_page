@@ -82,6 +82,11 @@ Uses test.afterEach() to perform logout after every test
 Rewrites the 3 test cases from login-suite.spec.ts in a more reusable way:
 
 
+ScreenShot:
+![image](https://github.com/user-attachments/assets/089d7415-b439-4fae-ae35-320ddd1f82e4)
+
+
+
 Verifies login success
 
 Checks if account summary table is visible
