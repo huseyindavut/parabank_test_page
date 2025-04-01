@@ -1,11 +1,14 @@
 # ParaBank Playwright Test Suite (TypeScript)
 
 
+
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 
 GitHub Link: https://github.com/huseyindavut/parabank_test_page.git
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
 This project is a functional end-to-end test suite for the [ParaBank](https://parabank.parasoft.com/parabank/index.htm) demo banking portal, written using [Playwright](https://playwright.dev/) and TypeScript.
 
 The tests were created as part of a mandatory assignment focused on exploring Playwright’s core features and best practices.
