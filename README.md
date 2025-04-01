@@ -1,7 +1,7 @@
 # ParaBank Playwright Test Suite (TypeScript)
 
- ![image](https://github.com/user-attachments/assets/62c8af0a-cbbc-4204-bb2b-69cc1008e98d)
-GitHub Link: https://github.com/huseyindavut/parabank_test_page.git
+ ![image](https://github.com/user-attachments/assets/62c8af0a-cbbc-4204-bb2b-69cc1008e98d) GitHub Link: https://github.com/huseyindavut/parabank_test_page.git
+
 
 This project is a functional end-to-end test suite for the [ParaBank](https://parabank.parasoft.com/parabank/index.htm) demo banking portal, written using [Playwright](https://playwright.dev/) and TypeScript.
 
