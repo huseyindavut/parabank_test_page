@@ -31,6 +31,10 @@ The tests were created as part of a mandatory assignment focused on exploring Pl
 
 ## 📁 File Structure
 
+
+![image](https://github.com/user-attachments/assets/d518de2f-1fd5-41fc-9b8c-cb6cf07d3d57)
+
+
 ## ▶ How to Run the Tests
 
 1. Install dependencies and browsers:
