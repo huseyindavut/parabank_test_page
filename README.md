@@ -1,7 +1,7 @@
 # ParaBank Playwright Test Suite (TypeScript)
 
 
- ![github-mark-white](https://github.com/user-attachments/assets/0e3e83b5-fc63-43d9-83f7-a03099a14cc1)
+![image](https://github.com/user-attachments/assets/5dd99c70-9011-4980-802d-2f8d0ebbcdb2)
 GitHub Link: https://github.com/huseyindavut/parabank_test_page.git
 
 
