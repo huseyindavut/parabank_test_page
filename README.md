@@ -30,9 +30,8 @@ The tests were created as part of a mandatory assignment focused on exploring Pl
 ---
 
 ## 📁 File Structure
+![image](https://github.com/user-attachments/assets/7da9f135-0354-41f9-b465-fed0633df08e)
 
-
-![image](https://github.com/user-attachments/assets/d518de2f-1fd5-41fc-9b8c-cb6cf07d3d57)
 
 
 ## ▶ How to Run the Tests
